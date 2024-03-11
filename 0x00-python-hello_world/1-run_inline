@@ -2,4 +2,3 @@
 echo "$PYCODE" > temp_script.py
 python3 temp_script.py
 rm temp_script.py
-
